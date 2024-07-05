@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FInal Project\\EcommerceTechM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|d:\\final project\\ecommercetechm\\ecommercetechm\\user\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|solutionrelative:ecommercetechm\\user\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|D:\\FInal Project\\EcommerceTechM\\ecommercetechm\\user\\signuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|solutionrelative:ecommercetechm\\user\\signuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|D:\\FInal Project\\EcommerceTechM\\ecommercetechm\\user\\shopdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|solutionrelative:ecommercetechm\\user\\shopdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|D:\\FInal Project\\EcommerceTechM\\ecommercetechm\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|solutionrelative:ecommercetechm\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|D:\\FInal Project\\EcommerceTechM\\ecommercetechm\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|solutionrelative:ecommercetechm\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|D:\\FInal Project\\EcommerceTechM\\ecommercetechm\\user\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|solutionrelative:ecommercetechm\\user\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|D:\\FInal Project\\EcommerceTechM\\ecommercetechm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D64CBD33-A06F-4A68-84E9-A9D835E05B08}|EcommerceTechM\\EcommerceTechM.csproj|solutionrelative:ecommercetechm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 169,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\User\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "EcommerceTechM\\User\\LoginPage.aspx",
+              "ToolTip": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\User\\LoginPage.aspx",
+              "RelativeToolTip": "EcommerceTechM\\User\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T06:26:17.422Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\Web.config",
+              "RelativeDocumentMoniker": "EcommerceTechM\\Web.config",
+              "ToolTip": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\Web.config",
+              "RelativeToolTip": "EcommerceTechM\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-03T07:53:51.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "EcommerceTechM\\Admin\\Dashboard.aspx",
+              "ToolTip": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "EcommerceTechM\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T14:09:10.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopDetails.aspx",
+              "DocumentMoniker": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\User\\ShopDetails.aspx",
+              "RelativeDocumentMoniker": "EcommerceTechM\\User\\ShopDetails.aspx",
+              "ToolTip": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\User\\ShopDetails.aspx",
+              "RelativeToolTip": "EcommerceTechM\\User\\ShopDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T13:32:42.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignupPage.aspx",
+              "DocumentMoniker": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\User\\SignupPage.aspx",
+              "RelativeDocumentMoniker": "EcommerceTechM\\User\\SignupPage.aspx",
+              "ToolTip": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\User\\SignupPage.aspx",
+              "RelativeToolTip": "EcommerceTechM\\User\\SignupPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T13:30:36.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\User\\Default.aspx",
+              "RelativeDocumentMoniker": "EcommerceTechM\\User\\Default.aspx",
+              "ToolTip": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\User\\Default.aspx",
+              "RelativeToolTip": "EcommerceTechM\\User\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T07:57:19.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\User\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "EcommerceTechM\\User\\LoginPage.aspx.cs",
+              "ToolTip": "D:\\FInal Project\\EcommerceTechM\\EcommerceTechM\\User\\LoginPage.aspx.cs",
+              "RelativeToolTip": "EcommerceTechM\\User\\LoginPage.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:45:17.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
